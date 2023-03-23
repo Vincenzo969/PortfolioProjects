@@ -1,5 +1,5 @@
 /*purpose of this project is to go and analyze the database regarding some house data in the city of Nashville using SQL.
-You'llfind the database in the repository*/
+You'll find the database in the repository*/
 
 
 -----------------------------------------------------------------------
